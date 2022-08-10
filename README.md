@@ -2,7 +2,7 @@
 
 Done by Mohammad Ibrahim Khan
 
-Python 3 program that draws one circle and one line and computes the amount of intersections 
+Python 3 program that uses Turtle Graphics to draw one circle and one line and computes the amount of intersections 
 
 
 The program will present an 800x600 pixel window with (0,0) being the bottom left corner point and
